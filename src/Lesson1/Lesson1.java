@@ -23,7 +23,7 @@ public class Lesson1 {
     }
 
     public static void printColor() {
-        int value = 118;
+        int value = 18;
         if (value <= 0) {
             System.out.println("Red");
         }
